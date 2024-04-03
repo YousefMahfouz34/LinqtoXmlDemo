@@ -1,0 +1,14 @@
+D:\Projects\LinqToXml\LinqToXml\bin\Debug\net8.0\LinqToXml.exe
+D:\Projects\LinqToXml\LinqToXml\bin\Debug\net8.0\LinqToXml.deps.json
+D:\Projects\LinqToXml\LinqToXml\bin\Debug\net8.0\LinqToXml.runtimeconfig.json
+D:\Projects\LinqToXml\LinqToXml\bin\Debug\net8.0\LinqToXml.dll
+D:\Projects\LinqToXml\LinqToXml\bin\Debug\net8.0\LinqToXml.pdb
+D:\Projects\LinqToXml\LinqToXml\obj\Debug\net8.0\LinqToXml.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\LinqToXml\LinqToXml\obj\Debug\net8.0\LinqToXml.AssemblyInfoInputs.cache
+D:\Projects\LinqToXml\LinqToXml\obj\Debug\net8.0\LinqToXml.AssemblyInfo.cs
+D:\Projects\LinqToXml\LinqToXml\obj\Debug\net8.0\LinqToXml.csproj.CoreCompileInputs.cache
+D:\Projects\LinqToXml\LinqToXml\obj\Debug\net8.0\LinqToXml.dll
+D:\Projects\LinqToXml\LinqToXml\obj\Debug\net8.0\refint\LinqToXml.dll
+D:\Projects\LinqToXml\LinqToXml\obj\Debug\net8.0\LinqToXml.pdb
+D:\Projects\LinqToXml\LinqToXml\obj\Debug\net8.0\LinqToXml.genruntimeconfig.cache
+D:\Projects\LinqToXml\LinqToXml\obj\Debug\net8.0\ref\LinqToXml.dll
