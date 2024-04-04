@@ -1,4 +1,5 @@
-﻿using System.Xml.Linq;
+﻿using System.Diagnostics;
+using System.Xml.Linq;
 
 namespace LinqToXml
 {
@@ -132,9 +133,15 @@ namespace LinqToXml
             Console.WriteLine(dateTime.ToString());
             #endregion
             #endregion
-
-
-
+            #region Documents and Declarations
+            var doc1 = new XDocument(
+                      new XElement("test", "data"));
+            var doc = new XDocument(
+                      new XDeclaration("1.0", "utf-16", "yes"),
+                      new XElement("test", "data"));
+            doc.Save("test.xml");
+            #endregion
+          
         }
     }
 }
