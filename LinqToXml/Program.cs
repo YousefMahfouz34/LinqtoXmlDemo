@@ -87,6 +87,51 @@ namespace LinqToXml
             var countelment = Elment.Elements("elmentchild1").Count();
             Console.WriteLine(countelment);
             #endregion
+            //////////////////////////Day two in chapter10///////////////////////////////
+            #region Updating X-Dom
+            // Console.WriteLine("-------------------------------------------");
+            // XElement setting = new XElement("setting", new XElement("timeout", "30"));
+            // Console.WriteLine(setting);
+            // setting.SetValue("updatevalue");
+            // Console.WriteLine(setting);
+            // setting.SetElementValue("timeupdate","updatevalue");
+            // Console.WriteLine(setting);
+            // XElement seq=new XElement("seq",new XElement("one"),new XElement("three"));
+            // Console.WriteLine(seq);
+            // //seq.FirstNode.AddAfterSelf(new XElement("two"));
+            //// Console.WriteLine(seq);
+            // seq.LastNode.AddBeforeSelf(new XElement("two"));
+            // Console.WriteLine(seq);
+            // //removing node
+            // XElement contacts = XElement.Parse(
+            //                             @"<contacts>
+            //                             <customer name='Mary'/>
+            //                             <customer name='Chris' archived='true'/>
+            //                             <supplier name='Susan'>
+            //                             <phone archived='true'>012345678<!--confidential--></phone>
+            //                             </supplier>
+            //                             </contacts>");
+            // Console.WriteLine(contacts);
+            // contacts.Element("customer").Remove();
+            // Console.WriteLine(contacts);
+
+
+            #endregion
+            #region Working with values
+            #region setting values
+            //setting values
+            XElement date = new XElement("time", DateTime.Now);
+            Console.WriteLine(date.ToString());
+            Console.WriteLine("after setting value");
+            date.SetValue(DateTime.Now.AddDays(3));
+            Console.WriteLine(date.ToString());
+            #endregion
+            #region Getting values
+            XElement datenow = new XElement("datenow",DateTime.Now);
+            DateTime dateTime=(DateTime)datenow;
+            Console.WriteLine(dateTime.ToString());
+            #endregion
+            #endregion
 
 
 

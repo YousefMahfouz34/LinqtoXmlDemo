@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LinqToXml")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7c8d8ca8678dac71b26a451ee5d06219ff95c1ac")]
 [assembly: System.Reflection.AssemblyProductAttribute("LinqToXml")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LinqToXml")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

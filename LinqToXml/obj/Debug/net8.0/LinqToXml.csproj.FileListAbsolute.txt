@@ -12,3 +12,4 @@ D:\Projects\LinqToXml\LinqToXml\obj\Debug\net8.0\refint\LinqToXml.dll
 D:\Projects\LinqToXml\LinqToXml\obj\Debug\net8.0\LinqToXml.pdb
 D:\Projects\LinqToXml\LinqToXml\obj\Debug\net8.0\LinqToXml.genruntimeconfig.cache
 D:\Projects\LinqToXml\LinqToXml\obj\Debug\net8.0\ref\LinqToXml.dll
+D:\Projects\LinqToXml\LinqToXml\obj\Debug\net8.0\LinqToXml.sourcelink.json
