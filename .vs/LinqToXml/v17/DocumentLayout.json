@@ -3,8 +3,36 @@
   "WorkspaceRootPath": "D:\\Projects\\LinqToXml\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0D272DCD-3FA6-4B5A-9EA0-E831EA23F455}|Json\\Json.csproj|d:\\projects\\linqtoxml\\json\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D272DCD-3FA6-4B5A-9EA0-E831EA23F455}|Json\\Json.csproj|solutionrelative:json\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84AA25FA-C672-4AF4-91BE-AE868219B692}|ReadAndWriteXml\\ReadAndWriteXml.csproj|d:\\projects\\linqtoxml\\readandwritexml\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84AA25FA-C672-4AF4-91BE-AE868219B692}|ReadAndWriteXml\\ReadAndWriteXml.csproj|solutionrelative:readandwritexml\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84AA25FA-C672-4AF4-91BE-AE868219B692}|ReadAndWriteXml\\ReadAndWriteXml.csproj|d:\\projects\\linqtoxml\\readandwritexml\\services\\customerservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84AA25FA-C672-4AF4-91BE-AE868219B692}|ReadAndWriteXml\\ReadAndWriteXml.csproj|solutionrelative:readandwritexml\\services\\customerservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96E4991F-EFE5-4312-9D1A-DCB5A2319B93}|Chapter11\\Chapter11.csproj|d:\\projects\\linqtoxml\\chapter11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96E4991F-EFE5-4312-9D1A-DCB5A2319B93}|Chapter11\\Chapter11.csproj|solutionrelative:chapter11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84AA25FA-C672-4AF4-91BE-AE868219B692}|ReadAndWriteXml\\ReadAndWriteXml.csproj|d:\\projects\\linqtoxml\\readandwritexml\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84AA25FA-C672-4AF4-91BE-AE868219B692}|ReadAndWriteXml\\ReadAndWriteXml.csproj|solutionrelative:readandwritexml\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84AA25FA-C672-4AF4-91BE-AE868219B692}|ReadAndWriteXml\\ReadAndWriteXml.csproj|d:\\projects\\linqtoxml\\readandwritexml\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84AA25FA-C672-4AF4-91BE-AE868219B692}|ReadAndWriteXml\\ReadAndWriteXml.csproj|solutionrelative:readandwritexml\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8AAC5082-DC02-4838-81CF-1DF8DFCA3365}|LinqToXml\\LinqToXml.csproj|d:\\projects\\linqtoxml\\linqtoxml\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8AAC5082-DC02-4838-81CF-1DF8DFCA3365}|LinqToXml\\LinqToXml.csproj|solutionrelative:linqtoxml\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84AA25FA-C672-4AF4-91BE-AE868219B692}|ReadAndWriteXml\\ReadAndWriteXml.csproj|d:\\projects\\linqtoxml\\readandwritexml\\services\\icustomerservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84AA25FA-C672-4AF4-91BE-AE868219B692}|ReadAndWriteXml\\ReadAndWriteXml.csproj|solutionrelative:readandwritexml\\services\\icustomerservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,14 +48,101 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\LinqToXml\\Json\\Program.cs",
+              "RelativeDocumentMoniker": "Json\\Program.cs",
+              "ToolTip": "D:\\Projects\\LinqToXml\\Json\\Program.cs",
+              "RelativeToolTip": "Json\\Program.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAmwGYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T08:50:15.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\LinqToXml\\ReadAndWriteXml\\Program.cs",
+              "RelativeDocumentMoniker": "ReadAndWriteXml\\Program.cs",
+              "ToolTip": "D:\\Projects\\LinqToXml\\ReadAndWriteXml\\Program.cs",
+              "RelativeToolTip": "ReadAndWriteXml\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T10:01:08.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "D:\\Projects\\LinqToXml\\ReadAndWriteXml\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "ReadAndWriteXml\\Controllers\\CustomerController.cs",
+              "ToolTip": "D:\\Projects\\LinqToXml\\ReadAndWriteXml\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "ReadAndWriteXml\\Controllers\\CustomerController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB4AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T09:59:15.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerServices.cs",
+              "DocumentMoniker": "D:\\Projects\\LinqToXml\\ReadAndWriteXml\\Services\\CustomerServices.cs",
+              "RelativeDocumentMoniker": "ReadAndWriteXml\\Services\\CustomerServices.cs",
+              "ToolTip": "D:\\Projects\\LinqToXml\\ReadAndWriteXml\\Services\\CustomerServices.cs",
+              "RelativeToolTip": "ReadAndWriteXml\\Services\\CustomerServices.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAowBAAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T09:04:44.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\Projects\\LinqToXml\\ReadAndWriteXml\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "ReadAndWriteXml\\Models\\Customer.cs",
+              "ToolTip": "D:\\Projects\\LinqToXml\\ReadAndWriteXml\\Models\\Customer.cs",
+              "RelativeToolTip": "ReadAndWriteXml\\Models\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T09:01:43.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ICustomerServices.cs",
+              "DocumentMoniker": "D:\\Projects\\LinqToXml\\ReadAndWriteXml\\Services\\ICustomerServices.cs",
+              "RelativeDocumentMoniker": "ReadAndWriteXml\\Services\\ICustomerServices.cs",
+              "ToolTip": "D:\\Projects\\LinqToXml\\ReadAndWriteXml\\Services\\ICustomerServices.cs",
+              "RelativeToolTip": "ReadAndWriteXml\\Services\\ICustomerServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T09:01:05.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\LinqToXml\\Chapter11\\Program.cs",
+              "RelativeDocumentMoniker": "Chapter11\\Program.cs",
+              "ToolTip": "D:\\Projects\\LinqToXml\\Chapter11\\Program.cs",
+              "RelativeToolTip": "Chapter11\\Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwB8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T08:00:05.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
               "DocumentMoniker": "D:\\Projects\\LinqToXml\\LinqToXml\\Program.cs",
               "RelativeDocumentMoniker": "LinqToXml\\Program.cs",
               "ToolTip": "D:\\Projects\\LinqToXml\\LinqToXml\\Program.cs",
               "RelativeToolTip": "LinqToXml\\Program.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAcwJEAAAAJAAAA",
+              "ViewState": "AQIAADsAAAAAAAAAAAAWwFAAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-03T09:12:49.947Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-03T09:12:49.947Z"
             }
           ]
         }

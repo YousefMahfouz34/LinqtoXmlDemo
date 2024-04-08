@@ -1,0 +1,15 @@
+D:\Projects\LinqToXml\Chapter11\bin\Debug\net8.0\Chapter11.exe
+D:\Projects\LinqToXml\Chapter11\bin\Debug\net8.0\Chapter11.deps.json
+D:\Projects\LinqToXml\Chapter11\bin\Debug\net8.0\Chapter11.runtimeconfig.json
+D:\Projects\LinqToXml\Chapter11\bin\Debug\net8.0\Chapter11.dll
+D:\Projects\LinqToXml\Chapter11\bin\Debug\net8.0\Chapter11.pdb
+D:\Projects\LinqToXml\Chapter11\obj\Debug\net8.0\Chapter11.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\LinqToXml\Chapter11\obj\Debug\net8.0\Chapter11.AssemblyInfoInputs.cache
+D:\Projects\LinqToXml\Chapter11\obj\Debug\net8.0\Chapter11.AssemblyInfo.cs
+D:\Projects\LinqToXml\Chapter11\obj\Debug\net8.0\Chapter11.csproj.CoreCompileInputs.cache
+D:\Projects\LinqToXml\Chapter11\obj\Debug\net8.0\Chapter11.sourcelink.json
+D:\Projects\LinqToXml\Chapter11\obj\Debug\net8.0\Chapter11.dll
+D:\Projects\LinqToXml\Chapter11\obj\Debug\net8.0\refint\Chapter11.dll
+D:\Projects\LinqToXml\Chapter11\obj\Debug\net8.0\Chapter11.pdb
+D:\Projects\LinqToXml\Chapter11\obj\Debug\net8.0\Chapter11.genruntimeconfig.cache
+D:\Projects\LinqToXml\Chapter11\obj\Debug\net8.0\ref\Chapter11.dll

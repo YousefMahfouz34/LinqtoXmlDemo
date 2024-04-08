@@ -120,26 +120,25 @@ namespace LinqToXml
             #endregion
             #region Working with values
             #region setting values
-            //setting values
-            XElement date = new XElement("time", DateTime.Now);
-            Console.WriteLine(date.ToString());
-            Console.WriteLine("after setting value");
-            date.SetValue(DateTime.Now.AddDays(3));
-            Console.WriteLine(date.ToString());
-            #endregion
-            #region Getting values
-            XElement datenow = new XElement("datenow",DateTime.Now);
-            DateTime dateTime=(DateTime)datenow;
-            Console.WriteLine(dateTime.ToString());
-            #endregion
-            #endregion
-            #region Documents and Declarations
-            var doc1 = new XDocument(
-                      new XElement("test", "data"));
-            var doc = new XDocument(
-                      new XDeclaration("1.0", "utf-16", "yes"),
-                      new XElement("test", "data"));
-            doc.Save("test.xml");
+            ////setting values
+            //XElement date = new XElement("time", DateTime.Now);
+            //Console.WriteLine(date.ToString());
+            //Console.WriteLine("after setting value");
+            //date.SetValue(DateTime.Now.AddDays(3));
+            //Console.WriteLine(date.ToString());
+            //#endregion
+            //#region Getting values
+            //XElement datenow = new XElement("datenow",DateTime.Now);
+            //DateTime dateTime=(DateTime)datenow;
+            //Console.WriteLine(dateTime.ToString());
+            //#endregion
+            //#endregion
+            //#region Documents and Declarations
+            //var doc1 = new XDocument(
+            //          new XElement("test", "data"));
+            //var doc = new XDocument(
+            //          new XDeclaration("1.0", "utf-16", "yes"));
+            //doc.Save("test.xml");
             #endregion
           
         }

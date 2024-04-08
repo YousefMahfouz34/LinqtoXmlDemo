@@ -1,0 +1,15 @@
+D:\Projects\LinqToXml\Json\bin\Debug\net8.0\Json.exe
+D:\Projects\LinqToXml\Json\bin\Debug\net8.0\Json.deps.json
+D:\Projects\LinqToXml\Json\bin\Debug\net8.0\Json.runtimeconfig.json
+D:\Projects\LinqToXml\Json\bin\Debug\net8.0\Json.dll
+D:\Projects\LinqToXml\Json\bin\Debug\net8.0\Json.pdb
+D:\Projects\LinqToXml\Json\obj\Debug\net8.0\Json.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\LinqToXml\Json\obj\Debug\net8.0\Json.AssemblyInfoInputs.cache
+D:\Projects\LinqToXml\Json\obj\Debug\net8.0\Json.AssemblyInfo.cs
+D:\Projects\LinqToXml\Json\obj\Debug\net8.0\Json.csproj.CoreCompileInputs.cache
+D:\Projects\LinqToXml\Json\obj\Debug\net8.0\Json.sourcelink.json
+D:\Projects\LinqToXml\Json\obj\Debug\net8.0\Json.dll
+D:\Projects\LinqToXml\Json\obj\Debug\net8.0\refint\Json.dll
+D:\Projects\LinqToXml\Json\obj\Debug\net8.0\Json.pdb
+D:\Projects\LinqToXml\Json\obj\Debug\net8.0\Json.genruntimeconfig.cache
+D:\Projects\LinqToXml\Json\obj\Debug\net8.0\ref\Json.dll
